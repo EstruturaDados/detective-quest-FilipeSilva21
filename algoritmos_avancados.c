@@ -1,6 +1,6 @@
 /*
  Detective Quest - Sistema de exploração, coleta de pistas e julgamento final
- Autor: (exemplo)
+ Autor: Filipe silva
  Compilação: gcc -std=c11 -Wall -Wextra -o detective detective.c
 
  Estruturas principais:
